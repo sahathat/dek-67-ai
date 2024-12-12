@@ -39,7 +39,7 @@ def load_faces_from_folder(folder_path):
     return known_encodings, known_names
 
 # Path to the faces folder
-faces_folder = "./faces"
+faces_folder = "./faces/"
 
 # Load known faces
 print("Loading known faces...")
