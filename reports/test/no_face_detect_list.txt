@@ -1,0 +1,45 @@
+ไฟล์นี้ประกอบด้วยรายการของภาพที่ไม่สามารถตรวจจับใบหน้าได้ในระหว่างกระบวนการจำแนกใบหน้า
+ไฟล์เหล่านี้อาจต้องมีการตรวจสอบเพิ่มเติมหรือปรับปรุงเพื่อลดปัญหาในการตรวจจับใบหน้า
+
+class: Unknow path: Test\Unknow\Alia Bhatt_11.jpg
+class: Unknow path: Test\Unknow\Alia Bhatt_38.jpg
+class: Unknow path: Test\Unknow\Alia Bhatt_8.jpg
+class: Unknow path: Test\Unknow\Amitabh Bachchan_53.jpg
+class: Unknow path: Test\Unknow\Amitabh Bachchan_67.jpg
+class: Unknow path: Test\Unknow\Andy Samberg_62.jpg
+class: Unknow path: Test\Unknow\Billie Eilish_25.jpg
+class: Unknow path: Test\Unknow\Billie Eilish_43.jpg
+class: Unknow path: Test\Unknow\Billie Eilish_66.jpg
+class: Unknow path: Test\Unknow\Camila Cabello_37.jpg
+class: Unknow path: Test\Unknow\Camila Cabello_4.jpg
+class: Unknow path: Test\Unknow\Camila Cabello_43.jpg
+class: Unknow path: Test\Unknow\Camila Cabello_76.jpg
+class: Unknow path: Test\Unknow\Charlize Theron_2.jpg
+class: Unknow path: Test\Unknow\Claire Holt_35.jpg
+class: Unknow path: Test\Unknow\Courtney Cox_59.jpg
+class: Unknow path: Test\Unknow\Elizabeth Olsen_46.jpg
+class: Unknow path: Test\Unknow\Ellen Degeneres_23.jpg
+class: Unknow path: Test\Unknow\Henry Cavill_7.jpg
+class: Unknow path: Test\Unknow\Hugh Jackman_26.jpg
+class: Unknow path: Test\Unknow\Jessica Alba_99.jpg
+class: Unknow path: Test\Unknow\Kashyap_14.jpg
+class: Unknow path: Test\Unknow\Margot Robbie_39.jpg
+class: Unknow path: Test\Unknow\Margot Robbie_46.jpg
+class: Unknow path: Test\Unknow\Margot Robbie_61.jpg
+class: Unknow path: Test\Unknow\Natalie Portman_27.jpg
+class: Unknow path: Test\Unknow\Natalie Portman_38.jpg
+class: Unknow path: Test\Unknow\Natalie Portman_45.jpg
+class: Unknow path: Test\Unknow\Natalie Portman_68.jpg
+class: Unknow path: Test\Unknow\Priyanka Chopra_2.jpg
+class: Unknow path: Test\Unknow\Priyanka Chopra_81.jpg
+class: Unknow path: Test\Unknow\Priyanka Chopra_87.jpg
+class: Unknow path: Test\Unknow\Robert Downey Jr_58.jpg
+class: Unknow path: Test\Unknow\Roger Federer_57.jpg
+class: Unknow path: Test\Unknow\Roger Federer_67.jpg
+class: Unknow path: Test\Unknow\Tom Cruise_6.jpg
+class: Unknow path: Test\Unknow\Vijay Deverakonda_29.jpg
+class: Unknow path: Test\Unknow\Vijay Deverakonda_37.jpg
+class: Unknow path: Test\Unknow\Vijay Deverakonda_54.jpg
+class: Unknow path: Test\Unknow\Vijay Deverakonda_78.jpg
+class: Unknow path: Test\Unknow\Virat Kohli_44.jpg
+class: Unknow path: Test\Unknow\Zac Efron_72.jpg

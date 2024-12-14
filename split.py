@@ -21,8 +21,8 @@ def random_select_files(source_folder, destination_folder, num_files=150):
         print(f"คัดลอกไฟล์: {file}")
 
 # ตัวอย่างการใช้งาน
-source_folder = "../Faces/"       # เปลี่ยนเป็น path โฟลเดอร์ต้นทาง
-destination_folder = "./Frames/Unknow/"    # เปลี่ยนเป็น path โฟลเดอร์ปลายทาง
+source_folder = "./Frames/Unknow"       # เปลี่ยนเป็น path โฟลเดอร์ต้นทาง
+destination_folder = "./Test/Unknow/"    # เปลี่ยนเป็น path โฟลเดอร์ปลายทาง
 num_files = 150  # จำนวนไฟล์ที่ต้องการ
 
 random_select_files(source_folder, destination_folder, num_files)
