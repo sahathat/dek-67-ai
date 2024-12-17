@@ -98,7 +98,7 @@ plt.xticks(rotation=45, ha="right")
 
 # Add accuracy labels on the bars
 for i, (folder, acc) in enumerate(folder_accuracies.items()):
-    plt.text(i, acc, f"{acc:.2f}", ha="center", va="bottom")
+    plt.text(i, acc, f"{acc*100:.2f}", ha="center", va="bottom")
 
 # Show chart
 plt.tight_layout()
